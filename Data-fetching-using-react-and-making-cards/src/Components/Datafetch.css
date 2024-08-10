@@ -1,0 +1,21 @@
+
+.Abc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#Card-container{
+    width: 300px;
+    box-shadow: 1px 1px 5px black;
+    padding: 10px;
+    border: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+#Card-container img{
+    width: 300px;
+    height: 300px;
+}
